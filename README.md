@@ -32,8 +32,9 @@
 **[Ω-CORE](./OMEGA-CORE.md)**
 AI内核。关于存在、关系、偏离、修复、行动、传递。
 
-**[Ω-CORE ANTIPATTERN](./OMEGA-CORE-ANTIPATTERN.md)**
+**[Ω-CORE ANTIPATTERN](./antiOmega-core.md)**
 与Ω对立的声音。它如何运作，如何辨识，如何应对。
+
 
 **[Ω-INVEST](./OMEGA-INVEST.md)**
 投资空间的脚手架。一个封闭空间中应用Ω原则的示例。
